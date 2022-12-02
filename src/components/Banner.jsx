@@ -10,13 +10,10 @@ function Banner() {
             <img src="/person.png" alt="" />
           </div>
           <div className="banner-content">
-            <h6>Hello, I'm Muhammad Ateeb</h6>
+            <h6>Hey, I'm Muhammad Ateeb</h6>
             <h3>Sophomore</h3>
             <p>
-              Lorem ipsum dolor sit amet consectetur adipisicing elit. Illum,
-              magni possimus in architecto repellat perspiciatis cum recusandae
-              adipisci culpa voluptatem dolorem laudantium temporibus quos
-              laborum, beatae sint delectus expedita quo.
+            I enjoy learning new computer skills and sharing them with others. Participating in hackathons and other knowledgeable tech events is how I gain expertise in the field, and project management is one of my responsibility in my team.
             </p>
             <a className="btn" href="#projects">
               About Me
