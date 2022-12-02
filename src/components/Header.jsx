@@ -23,7 +23,7 @@ function Header() {
   return (
     <header className={`${stickyClass}`}>
       <div className="header-inner">
-        <span className="logo">👨🏻‍💻</span>
+        <span className="logo">Bhatti</span>
         <div className="links">
           <a className="link" href="#banner">
             Home
