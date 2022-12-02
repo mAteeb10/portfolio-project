@@ -5,7 +5,7 @@ function Footer() {
   return (
     <footer>
       <div className="container">
-        <span className="logo">Bhatti.</span>
+        <span className="logo">Bhatt.</span>
         <div className="links">
           <a href="https://www.facebook.com/muhammad.ateeb.31105?mibextid=ZbWKwL">
             <i className="fab fa-facebook"></i>
