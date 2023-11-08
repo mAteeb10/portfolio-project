@@ -11,7 +11,7 @@ function Banner() {
           </div>
           <div className="banner-content">
             <h6>Hey, I'm Muhammad Ateeb</h6>
-            <h3>A 5th Sememster Student.</h3>
+            <h3>A 6th Sememster Student.</h3>
             <p>
             I enjoy learning new computer skills and sharing them with others. Participating in hackathons and other knowledgeable tech events is how I gain expertise in the field, and project management is one of my responsibility in my team.
             </p>
