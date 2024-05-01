@@ -39,20 +39,20 @@ function ServicesExperience() {
         </div>
         <div className="experiences" id="experiences">
           <div className="experience">
-            <h3>12</h3>
+            <h3>1</h3>
             <p>Year Experience</p>
           </div>
           <div className="portfolios">
             <div className="portfolio">
-              <h4>60+</h4>
+              <h4>5+</h4>
               <p>Clients</p>
             </div>
             <div className="portfolio">
-              <h4>08</h4>
+              <h4>1</h4>
               <p>Years Experience</p>
             </div>
             <div className="portfolio">
-              <h4>122+</h4>
+              <h4>-</h4>
               <p>Completed Projects</p>
             </div>
             <div className="portfolio">
